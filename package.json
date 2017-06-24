@@ -1,0 +1,34 @@
+{
+    "name": "notable-api",
+    "version": "1.0.0",
+    "author": "Michael Gokey",
+    "license": "MIT",
+    "description": "MEN-based API for saving notes",
+    "keywords": [
+        "Node",
+        "Express",
+        "MongoDB",
+        "API"
+    ],
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gokemon/notable-api.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gokemon/notable-api/issues"
+    },
+    "homepage": "https://github.com/gokemon/notable-api#readme",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.3",
+        "mongodb": "^2.2.29"
+    },
+    "devDependencies": {
+        "nodemon": "^1.11.0"
+    }
+}
