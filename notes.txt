@@ -1,1 +1,19 @@
 https://medium.freecodecamp.com/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2
+
+https://mlab.com/welcome/
+http://docs.mlab.com/
+
+To connect using the mongo shell:
+mongo ds119618.mlab.com:19618/gokesters-notable -u <dbuser> -p <dbpassword>
+To connect using a driver via the standard MongoDB URI 
+mongodb://<dbuser>:<dbpassword>@ds119618.mlab.com:19618/gokesters-notable
+gokester
+Ours1967
+mongodb://gokester:Ours1967@ds119618.mlab.com:19618/gokesters-notable
+mongo ds119618.mlab.com:19618/gokesters-notable -u gokester -p Ours1967
+
+url: 'mongodb://gokester:Ours1967@ds119618.mlab.com:19618/gokesters-notable'
+
+
+https://github.com/prajapati-parth/simple-express-api
+https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
