@@ -17,3 +17,7 @@ url: 'mongodb://gokester:Ours1967@ds119618.mlab.com:19618/gokesters-notable'
 
 https://github.com/prajapati-parth/simple-express-api
 https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
+
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+
+I am going to work on the simple-express-api. from Prajapati. looks simple enough
